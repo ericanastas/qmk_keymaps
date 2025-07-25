@@ -10,7 +10,7 @@ jobs:
       matrix:
         # List of keymap json files to build
         file:
-          - username.json
+          - crkbd_rev1_layout_split_3x6_3
     # End of json file list
 
     steps:
